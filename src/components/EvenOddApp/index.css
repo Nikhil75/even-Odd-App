@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto';
+}
+body {
+  margin: 0px;
+}
+.evenOddAppBackground {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.even-or-odd {
+  color: #334155;
+}
+.increment {
+  height: 4vh;
+  border-width: 0px;
+  border-radius: 8px;
+  color: #1e293b;
+}
+.instruction {
+  color: #334155;
+}
